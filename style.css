@@ -1,0 +1,10 @@
+#submit{
+   
+    padding: 1vw;
+    background-color: aquamarine;
+    text-align: center;
+    cursor: pointer;
+}
+#message{
+    width: 25vw;
+}
